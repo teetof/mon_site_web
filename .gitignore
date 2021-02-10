@@ -2,4 +2,5 @@ tmp/todo.txt
 tmp/*
 *.xml
 *.bak
+*.xls
 *.doc
